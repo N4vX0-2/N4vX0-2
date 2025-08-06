@@ -18,7 +18,7 @@ Welcome to my GitHub! My username is a tribute to my late father, based off his 
   *Proven track record of leading cross-functional IT and security teams, fostering professional growth, and aligning technology strategies with organizational objectives.*
 
 - **Mission-Driven Advocate:**  
-  *Passionate about transforming cybersecurity into an accessible and proactive practice, believing security is a fundamental right—not a privilege.*
+  *Passionate about transforming cybersecurity into an accessible and proactive practice, believing security is a fundamental right and not a privilege.*
 
 ---
 
