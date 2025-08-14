@@ -33,6 +33,8 @@ Welcome to my GitHub! My username is a tribute to my late father, based off his 
   *Monitors and validates end-to-end email delivery and security, detecting tampering or delivery issues to ensure message integrity.*
 - [Project Vigilance360: Managed Security Suite for home users and SMBs](*)
 - *Affordable, integrated solution delivering real-time threat detection, compliance, and automated security, maximizing protection at minimal cost.*
+- [Security Hardening Guides & How-Tos](https://github.com/N4vX0-2/Knowledge-Base)  
+  *A growing collection of my original cybersecurity manuals, how-to guides, and scripts.”*
 ---
 
 ## 📻 Why N4vx0-2?
