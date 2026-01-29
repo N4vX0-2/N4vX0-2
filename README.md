@@ -1,10 +1,10 @@
-# Hi, I'm James (N4vx0-2) 👋
+# Hi, I'm James (N4vx0-2)
 
 Welcome to my GitHub! My username is a tribute to my late father, based off his ham radio call sign, inspired my earliest work with hardware and electronics around the age of six. This page is a portfolio of my journey from childhood soldering sessions to modern security and automation projects.
 
 ---
 
-## 🛠️ About Me
+## About Me
 - **Senior Infrastructure & Cybersecurity Expert:**  
   *18+ years' experience leading secure, scalable IT environments across cloud and on-premises infrastructures.*  
 
@@ -22,7 +22,7 @@ Welcome to my GitHub! My username is a tribute to my late father, based off his 
 
 ---
 
-## 🚀 Highlighted Projects
+##  Highlighted Projects
 - [PulseOps: PowerShell Task Automation](#)  
   *Streamligning IT operations through automated system management, data backups, and detailed reporting, reducing overhead and enhancing operational efficiency.*
 - [Project Aiden Security Middleware](#)  
@@ -37,12 +37,12 @@ Welcome to my GitHub! My username is a tribute to my late father, based off his 
   *A growing collection of my original cybersecurity manuals, how-to guides, and scripts.”*
 ---
 
-## 📻 Why N4vx0-2?
+## Why N4vx0-2?
 My first steps into electronics and security came from tinkering with ham radios alongside my father. Each project here builds upon the curiosity and skills he sparked in me. I believe we all stand on the shoulders of flawed but truly inspiring people. 
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 - **Email:** [Send me a message](mailto:james@secured-harbor.com)  
 - **LinkedIn:** [Connect with me](https://shorturl.at/PFQUw)
 
