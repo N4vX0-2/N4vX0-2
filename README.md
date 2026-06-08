@@ -1,52 +1,110 @@
-# Hi, I'm Jimmy (James) (N4vx0-2)
+IT and cybersecurity professional focused on infrastructure, security operations, automation, vulnerability management, incident response, and practical risk reduction.
 
-Welcome to my shanty of a GitHub! My username is a tribute to my late father, based off his ham radio call sign, inspired my earliest work with hardware and electronics around the age of six. This page is a portfolio of my journey from childhood soldering sessions to modern security and automation projects.
+This GitHub portfolio contains personal projects, technical notes, security hardening resources, automation concepts, and local-first tools built around real operational problems: reducing manual work, improving visibility, documenting repeatable processes, and making security more practical for small teams and complex environments.
 
----
+## Focus Areas
 
-## About Me
-- **Senior Infrastructure & Cybersecurity Expert:**  
-  *19+ years' experience leading secure, scalable IT environments across cloud and on-premises infrastructures. Extensive work in MSP, MSSP, ITAR, and Bio-Research enviornments*  
+- Cybersecurity operations and infrastructure security
+- Vulnerability management and remediation planning
+- Endpoint defense concepts and security hardening
+- Microsoft, Windows, Azure, and hybrid infrastructure
+- PowerShell automation and operational scripting
+- Security documentation, checklists, and technical guides
+- Local-first privacy-focused tools
+- Automation and LLM-assisted security and IT workflow concepts
 
-- **Cybersecurity Strategist:**  
-  *Extensive experience in incident response, threat hunting, vulnerability assessments, and implementing Zero Trust architectures aligned with frameworks like NIST, CIS Controls, and ISO 27001.*
+## Featured Projects
 
-- **Technical Innovator:**  
-  *Skilled in infrastructure automation (PowerShell, Python, Node.js), proactive cybersecurity defense (SOAR, SIEM, EDR), and secure cloud integration (Azure, Office 365, SaaS).*
+### Sparrow Defender
 
-- **Leader & Mentor:**  
-  *Proven track record of leading cross-functional IT and security teams, fostering professional growth, and aligning technology strategies with organizational objectives.*
+Windows-focused browser-agnostic security proxy concept designed to explore local endpoint protection, traffic handling, and hardened browsing workflows.
 
-- **Mission-Driven Advocate:**  
-  *Passionate about transforming cybersecurity into an accessible and proactive practice, believing security is a fundamental right and not a privilege.*
+**Current status:** Private beta / prototype documentation  
+**Relevant areas:** endpoint security, Windows hardening, secure browsing, defensive tooling
 
----
-
-##  Highlighted Personal Projects
-- [PulseOps: PowerShell Task Automation](#)  
-  *Streamligning IT operations through automated system management, data backups, and detailed reporting, reducing overhead and enhancing operational efficiency.*
-- [Project Sparrow Defense Middleware](https://github.com/N4vX0-2/Sparrow-Defender)  
-  *Windows browser-agnostic middleware offering proactive endpoint defense through intelligent security protocols.* 
-- [Project Echo: Advanced AI Cybersecurity & IT Assistant](#)  
-  *Dynamic, collaborative localized AI specializing in cybersecurity analysis, penetration testing insights, and comprehensive IT support.*
-- [My Security Metrics: Compliance Preparation Guide without a Paywall](https://github.com/N4vX0-2/mysecuritymetrics)
-  *A Multi-Diciplined and individualized system to assist small businesses pass compliance auditing while removing the paywall.*
-- [Field Forged: Privacy First Offline Job Estimation Tool for the Trades](https://github.com/N4vX0-2/Field-Forged)
-- *Affordable, privacy-first, offline-ready job estimation tool designed for independent tradespeople and small field service teams.*
-- [Security Hardening Guides & How-Tos](https://github.com/N4vX0-2/Knowledge-Base)  
-  *A growing collection of my original cybersecurity manuals, how-to guides, and scripts. Sorry I havent kept up with this as much as I could, just been having trouble uploading to it... not really a github guru if ya cant tell*
----
-
-## Why N4vx0-2?
-My first steps into electronics and security came from tinkering with ham radios alongside my father. Each project here builds upon the curiosity and skills he sparked in me. I believe we all stand on the shoulders of flawed but truly inspiring people. 
+[View project](https://github.com/N4vX0-2/Sparrow-Defender)
 
 ---
 
-## Get in Touch
-- **Email:** [Send me a message](mailto:james@secured-harbor.com)  
-- **LinkedIn:** [Connect with me](https://shorturl.at/PFQUw)
-- **Personal-Website:** [What ruckus am I causing?](https://handmedownheros.com)
+### MySecurityMetrics
+
+Browser-based compliance readiness and security posture assessment project for small organizations. The project focuses on guided questionnaires, gap analysis, local execution, and privacy-preserving evidence handling.
+
+**Current status:** Private beta / public overview  
+**Relevant areas:** GRC, compliance readiness, CIS Controls, NIST CSF, HIPAA readiness, cyber insurance readiness
+
+[View project](https://github.com/N4vX0-2/mysecuritymetrics)
 
 ---
 
-_Thanks for visiting! If you have any suggesions, requests, comments, insults, or good jokes you think I havent heard yet... feel free to reach out. 
+### Security Hardening Guides & How-Tos
+
+A collection of technical security notes, hardening references, and practical defensive guidance. Topics include Windows security, BitLocker-related attack-path mitigation, SMB hardening, Secure Boot, and related remediation steps.
+
+**Current status:** Active documentation repository  
+**Relevant areas:** hardening, remediation, Windows security, technical documentation
+
+[View project](https://github.com/N4vX0-2/Knowledge-Base)
+
+---
+
+### PulseOps PowerShell Scripts
+
+PowerShell automation project for repeatable IT operations tasks such as system checks, reporting, backup workflows, and administrative maintenance.
+
+**Current status:** Early-stage repository  
+**Relevant areas:** PowerShell, IT automation, operations support, repeatable administration
+
+[View project](https://github.com/N4vX0-2/pulseops-powershell-scripts)
+
+---
+
+### Field Forged
+
+Privacy-first, offline-ready job estimation tool designed for independent tradespeople and small field service teams. The project emphasizes local-first data handling, no forced cloud dependency, and practical field usability.
+
+**Current status:** Product concept / active project documentation / project in beta testing  
+**Relevant areas:** local-first applications, privacy-first design, offline workflows, small-business tooling
+
+[View project](https://github.com/N4vX0-2/Field-Forged)
+
+## Additional Project Concepts
+
+### Project Echo
+
+AI-assisted cybersecurity and IT support concept focused on structured troubleshooting, security analysis support, report generation, and workflow assistance.
+
+**Current status:** Early-stage concept  
+**Note:** Intended for authorized defensive and administrative use only.
+
+[View project](https://github.com/N4vX0-2/echo-ai-cybersecurity-assistant)
+
+---
+
+### IntegrityMail
+
+Email assurance concept focused on message integrity, suspicious email detection, attachment review workflows, and email-provider integration planning.
+
+**Current status:** Early-stage concept
+
+[View project](https://github.com/N4vX0-2/integritymail-email-assurance)
+
+---
+
+### Vigilance360
+
+Managed security concept for home users, SOHO environments, and small businesses. Focus areas include monitoring, vulnerability checks, security automation, and reporting.
+
+**Current status:** Early-stage concept
+
+[View project](https://github.com/N4vX0-2/vigilance360-managed-security)
+
+## Working Style
+
+I build practical security and infrastructure resources with an operator mindset: identify the risk, understand the environment, document the issue, test the fix, automate where appropriate, and reduce or stop repeat failure.
+
+My goal with this portfolio is to show how I think through technical problems, security controls, documentation, and automation; not just list tools.
+
+## Contact
+
+- LinkedIn: [Jimmy Melton](https://www.linkedin.com/in/jimmymelton/)
