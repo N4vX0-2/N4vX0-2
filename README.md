@@ -1,4 +1,4 @@
-# Hi, I'm James (N4vx0-2)
+# Hi, I'm Jimmy (James) (N4vx0-2)
 
 Welcome to my shanty of a GitHub! My username is a tribute to my late father, based off his ham radio call sign, inspired my earliest work with hardware and electronics around the age of six. This page is a portfolio of my journey from childhood soldering sessions to modern security and automation projects.
 
